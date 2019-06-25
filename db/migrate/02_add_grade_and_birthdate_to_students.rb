@@ -5,6 +5,8 @@ class StudentDetails < ActiveRecord::Migration[5.1]
   end
 end
 
+# 03_change_datatype_for_birthdate.rb
+
 # class StudentDetails < ActiveRecord::Migration[5.1]
   
 #   def change
