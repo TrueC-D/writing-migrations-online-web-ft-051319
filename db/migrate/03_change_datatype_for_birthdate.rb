@@ -1,11 +1,11 @@
-class StudentDetails < ActiveRecord::Migration[5.1]
+# class StudentDetails < ActiveRecord::Migration[5.1]
   
-  def change
-    add_column :students, :grade, :integer
-    add_column :students, :birthdate, :string
-  end
+#   def change
+#     add_column :students, :grade, :integer
+#     add_column :students, :birthdate, :string
+#   end
   
-end
+# end
 
 # class StudentDetails < ActiveRecord::Migration[5.1]
   
